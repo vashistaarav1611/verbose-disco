@@ -1,0 +1,21 @@
+.btn100 {
+	width: 100%;
+    font-size: 40px;
+}
+.copy_rfoot{
+	bottom: 0;
+	position: fixed;
+	text-align: center;
+	width: 100%;
+	background-color: dimgray;
+	height: 30px;
+	font-size: 25px
+}
+canvas{
+	box-shadow: 2px 2px 2px 5px black;
+	background-color: rgb(220,220,220);
+	margin-top: 80px;
+}
+#hw{
+	font-size: 16px;
+}
